@@ -1,0 +1,91 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Vitrine - Frenchcoder</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <h1>Donación</h1>
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#produits">Nos produits</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Donación,</h1>
+    </header>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Condiciones de donación</h1>
+                    <p>Estos son los requisitos que debe cumplir<p>
+
+<p> 1- Debe tener una cuenta bancaria para cobrar fondos<p>
+
+        <p>2- Debes cumplir con todas las condiciones establecidas por la ley<p>
+
+       <P>3- Debe completar un formulario de donación y firmarlo*
+
+        <p>4- Debes firmar un documento llamado Acto de donación a tu nombre y a nombre de la señora , confirmando que eres el único heredero de estos fondos y propiedad privada<p>
+
+
+       <p>5- si está de acuerdo, diga</p>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Abogado</h1>
+                    <p>Jean Alfred Antoine savi</p>
+                </div>
+                <div class="right">
+                    <img src="D:\web" alt="Photo ABOCADO">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+
+        <h1>Nuestros compañeros</h1>
+        <div class="services">
+            
+            <div class="service">
+                <h3>Lcl Banco</h3>
+                  </div>
+                <div class="right">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvU50UKJjiTazwr1Y26GvhQD9P3Z8m0ai2LA&usqp=CAU" alt="">
+                </div>
+            </div>
+            </div>
+
+            <div class="service">
+                <h3>Pago en línea</h3>
+                </div>
+                <div class="right">
+                    <img src="data:image/png;base64,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" alt="">
+                </div>
+            </div>
+            </div>
+
+            <div class="service">
+                <h3>Amado o reembolsado</h3>
+                 </div>
+                <div class="right">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBCUzcsiBUUuCnUeXz4UsnIfNIrwx9xmOcQ&usqp=CAU" alt="">
+                </div>
+            </div>
+          </div>
+
+        </div>
+
+        <p id="contact">Contact : 08 19 17 278 1 | &copy; 2021, España.</p>
+    </footer>
+</body>
+</html>
